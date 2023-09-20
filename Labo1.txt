@@ -1,0 +1,10 @@
+In deze eerste opdracht zullen wij werken met een bestande dataset van FLUVIUS "AMR_REPORTING_EXPORT.csv". Het doel van deze eerste opdracht is om te visualiseren met een Jupyter notebook de volgende verklaringen:
+
+- Hoeveel verschillende meters zijn er
+- Het energieverbruik van elke van de meters.
+- De lastprofiel gemeten door de meter XX41 behoort tot een installatie waar de activiteiten gebeuren voornamelijk tijdens de week
+- In welke maand heeft de meter XX41 het grootste verbruik
+- De baseload gemeten met de meter XX41 
+
+
+Afleveringsdatum: 27 september vóór 8u30
